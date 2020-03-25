@@ -1,7 +1,11 @@
-* {
+* ,body{
 	margin: 0px;
 	padding: 0px;
 	background-color: purple;
+}
+
+.card {
+	background: pink !important;
 }
 
 #octocat {
